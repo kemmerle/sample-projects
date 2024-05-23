@@ -1,6 +1,7 @@
 {
   "name": "Get started with public apps",
   "uid": "get-started-public-app",
+  "logo": "./hslogo.png",
   "description": "An example to demonstrate how to build a public app with developer projects.",
   "allowedUrls": [
     "https://api.hubapi.com"
